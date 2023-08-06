@@ -8,5 +8,6 @@ namespace ProjectForGit
 {
     internal class User
     {
+        // tyg7yu8
     }
 }
