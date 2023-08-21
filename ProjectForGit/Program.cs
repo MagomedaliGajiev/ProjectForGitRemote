@@ -11,3 +11,4 @@ Console.WriteLine();
 // make chanches for 7 task
 
 // for subtask_1
+// for subtask_2
