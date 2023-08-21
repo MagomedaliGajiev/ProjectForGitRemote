@@ -10,5 +10,6 @@ namespace ProjectForGit
     {
         // изменения для подзадачи//gfggfgf
         // hghbhjjjj
+        // fghjk,
     }
 }
