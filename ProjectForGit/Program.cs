@@ -7,3 +7,5 @@ Console.WriteLine("Hello, World!");
 // Иизменение для подзадачи 5
 
 Console.WriteLine();
+
+// make chanches for 7 task
