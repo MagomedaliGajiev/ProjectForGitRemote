@@ -9,3 +9,5 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine();
 
 // make chanches for 7 task
+
+// for subtask_1
