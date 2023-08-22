@@ -12,3 +12,5 @@ Console.WriteLine();
 
 // for subtask_1
 // for subtask_2
+
+// Иизменение для задачи 9
