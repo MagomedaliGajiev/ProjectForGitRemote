@@ -8,5 +8,6 @@ namespace ProjectForGit
 {
     public class MyFile
     {
+        // 2
     }
 }
